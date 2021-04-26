@@ -1,0 +1,21 @@
+digraph {
+	"Petit Du Fromage" -> Bebidas
+	Bebidas -> "cerveza oscura Q.30.95  Cerveza Oscura de la casa "
+	Bebidas -> "coca cola Q.17.50  Coca Cola, sabores de vainila, cereza, zero y normal "
+	Bebidas -> "eau Q.10.00  Agua embotellada "
+	Bebidas -> "mojito Q.40.00  Nuestro famoso mo-ojito "
+	Bebidas -> "vino rojo Q.300.00  botella de vino "
+	"Petit Du Fromage" -> Desayunos
+	Desayunos -> "Buffete Q.85.00  Opcion de desayuno buffet "
+	Desayunos -> "El Clasico Q.40.00  Webitos con panqueques "
+	Desayunos -> "El Frijolero Q.25.00  Frijoles de todos tipos con platanos "
+	"Petit Du Fromage" -> Ensaladas
+	Ensaladas -> "Ensalada de agua Q.12.75  Basicamente es lechuga con tomate "
+	Ensaladas -> "Ensalada de papa Q.25.99  Basicamente es papa con mayonesa xd "
+	"Petit Du Fromage" -> Carnes
+	Carnes -> "Puyaso Q.135.00  1/2 Libra acompaniada de 3 guarniciones "
+	Carnes -> "Lomito Q.145.00  1/2 Libra acompaniada de 3 guarniciones "
+	Carnes -> "Entrania Q.155.00  1/2 Libra acompaniada de 3 guarniciones "
+	"Petit Du Fromage" -> Postres
+	Postres -> "Torta Chilena Q.35.00  Porcion de Torta Chilena "
+}
